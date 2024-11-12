@@ -1,0 +1,24 @@
+{
+    "en": {
+      "greeting": "Hello",
+      "message": "Welcome to our application!"
+    },
+   "es": {
+      "greeting": "Hola",
+      "message": "¡Bienvenido a nuestra aplicación!"
+    },
+    "fr": {
+      "greeting": "Bonjour",
+      "message": "Bienvenue dans notre application!"
+    },
+    "de": {
+      "greeting": "Hallo",
+      "message": "Willkommen in unserer Anwendung!"
+    },
+    "hi": {
+      "greeting": "नमस्ते",
+      "message": "हमारे आवेदन में आपका स्वागत है!"
+    }
+}
+  
+  
