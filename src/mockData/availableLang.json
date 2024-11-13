@@ -17,7 +17,12 @@
     },
     {
         "name": "Spanish",
-        "code": "sp",
+        "code": "es",
         "label": "Español"
+    },
+    {
+        "name": "German",
+        "code": "de",
+        "label": "Deutsch"
     }
 ]
